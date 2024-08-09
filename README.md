@@ -1,6 +1,6 @@
 # EchoSign
 
-**EchoSign** is a Flutter-based mobile camera application designed to detect sign language gestures and translate them into text and voice. The app utilizes machine learning, with a model trained on American Sign Language (ASL) gestures, to help bridge communication gaps for the hearing-impaired community.
+**EchoSign** is a Flutter-based mobile camera application designed to detect sign language gestures and translate them into text and voice. The app utilizes deep learning, with a model trained on American Sign Language (ASL) gestures, to help bridge communication gaps for the hearing-impaired community.
 
 ## Table of Contents
 
